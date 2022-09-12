@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Repo
 {
     public class Class1
-    {
+    { 
     }
 }
